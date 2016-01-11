@@ -1,0 +1,28 @@
+name: Links
+favicon: null
+layout_spectrum: 0.9008449465036392
+typography_spectrum: 0.13324991194531322
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9410593553911895
+  lightness: 0.9406125547830015
+  saturation: 0.8011180644389242
+  rhythmicContrast: 0.0721696054097265
+purpose: []
