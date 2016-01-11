@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Links]]></title>
         <description><![CDATA[Links]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/links/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 04:35:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 04:38:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/links/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedc41629d4-1861-42fc-96c3-cee4588d9e63/index.html</link>
+            <description><![CDATA[<p>undefined</p>]]></description>
+            <link>https://thegrid.ai/links/fb8bd83f-04d4-4456-8865-5cdc0f79264b/index.html</link>
+            <guid isPermaLink="false">fb8bd83f-04d4-4456-8865-5cdc0f79264b</guid>
+            <pubDate>Mon, 11 Jan 2016 04:38:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Master of Photography (M.Photog.)Awarded for superior photographic skills—demonstrated through the PPA International Photographic Competition, advanced education and service to the industry.</p>]]></description>
+            <link>https://thegrid.ai/links/c41629d4-1861-42fc-96c3-cee4588d9e63/index.html</link>
             <guid isPermaLink="false">c41629d4-1861-42fc-96c3-cee4588d9e63</guid>
             <pubDate>Mon, 11 Jan 2016 04:35:38 GMT</pubDate>
         </item>
